@@ -1,0 +1,25 @@
+{
+  "name": "markedit",
+  "description": "In browser markdown editor",
+  "main": "server.js",
+  "authors": [
+    "Raj Abishek <rajabishek@hotmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "markdown"
+  ],
+  "homepage": "https://github.com/rajabishek/markedit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/packages",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "showdown": "^1.4.0"
+  }
+}
