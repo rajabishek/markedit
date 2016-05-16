@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/rajabishek/markedit/issues"
   },
-  "homepage": "https://github.com/rajabishek/markedit#readme"
+  "homepage": "https://github.com/rajabishek/markedit#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "redis": "^2.6.0-2",
+    "share": "^0.7.40"
+  }
 }
