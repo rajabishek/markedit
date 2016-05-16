@@ -26,7 +26,6 @@ git clone https://github.com/rajabishek/markedit
 This will install the dependencies of this website. It will pull in several packages like sharejs, redis, express, bower etc. This will install all the backend dependencies.
 ```
 npm install
-
 ```
 
 ### Step 3: Install frontend dependencies
