@@ -26,5 +26,8 @@
     "express": "^4.13.4",
     "redis": "^2.6.0-2",
     "share": "^0.7.40"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install"
   }
 }
