@@ -1,0 +1,23 @@
+{
+  "name": "markedit",
+  "version": "1.0.0",
+  "description": "In browser markdown editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajabishek/markedit.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Raj Abishek <rajabishek@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajabishek/markedit/issues"
+  },
+  "homepage": "https://github.com/rajabishek/markedit#readme"
+}
