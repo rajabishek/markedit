@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rajabishek/markedit#readme",
   "dependencies": {
+    "bower": "^1.7.9",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "redis": "^2.6.0-2",
